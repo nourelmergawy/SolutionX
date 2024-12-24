@@ -3,5 +3,12 @@
     <style name="Base.Theme.SolutionX" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#FF5FE85D</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#FFFFA726</item>
+        <item name="colorOnSecondary">#FF212121</item>
+        <item name="background">@color/white</item>
+        <item name="colorOnBackground">#FF1F1F1F</item>
+
     </style>
 </resources>
